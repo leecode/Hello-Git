@@ -8,12 +8,12 @@ baseurl: "/Hello-WORLD"
 
 # About/contact
 owner: 
-  name: "Azeril"
-  email: azeril@live.cn
-  bio: "明朝即長路 惜取此時心"
+  name: "Leecode"
+  email: leecode@qq.com
+  bio: "</pierrot>"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: "img/kenny.png"
 favicon: img/favicon.ico
 
 # douban_username: Azeril
